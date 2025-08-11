@@ -11,5 +11,8 @@
     "backend"
   ],
   "author": "keshav ajagaonkar",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
 }
